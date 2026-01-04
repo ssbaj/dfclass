@@ -19,6 +19,7 @@ e_dfclass<-function(explaining=0){
    cat("  df12: 기부행위에 대한 서베이조사 ", '\n')
    cat("  df13: 기말시험대비 문제 - mdis ", '\n')
    cat("  df14: 기말시험대비 문제 - NGO", '\n')
+   cat("  df15: suwond city Rev data", '\n')
    cat("   ", '\n')
   } }
 
