@@ -16,6 +16,7 @@ e_dfclass<-function(explaining=0){
    cat("  df9: 국내여행 서베이 ", '\n')
    cat("  df10: 2022년 주거실태조사 ", '\n')
    cat("  df11: 2021년 NGO기부금자료 ", '\n')
+   cat("  df12: 기부행위에 대한 서베이조사 ", '\n')
    cat("   ", '\n')
   } }
 
