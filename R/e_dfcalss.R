@@ -17,6 +17,8 @@ e_dfclass<-function(explaining=0){
    cat("  df10: 2022년 주거실태조사 ", '\n')
    cat("  df11: 2021년 NGO기부금자료 ", '\n')
    cat("  df12: 기부행위에 대한 서베이조사 ", '\n')
+   cat("  df13: 기말시험대비 문제 - mdis ", '\n')
+   cat("  df14: 기말시험대비 문제 - NGO", '\n')
    cat("   ", '\n')
   } }
 
